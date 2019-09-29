@@ -1,0 +1,35 @@
+/* add your CSS here */
+.entire_page {
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgray;
+  padding-left: 18px;
+  width: 320px;
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+.intro {
+  font-style: italic;
+  }
+
+.animal_information {
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgray;
+  padding: 10px;
+  width: 279px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+span {
+  font-weight: bold;
+  }
+
+ul {
+  list-style: none;
+  list-style-position: inside;
+  padding-left: 0
+}
